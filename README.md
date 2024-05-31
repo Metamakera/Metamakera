@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Metamakera
-- 👀 I’m interested in web developing 
-- 🌱 I’m currently learning html
+- 👋 Hi, I’m @Baskarraj
+- 👀 I’m interested in web developing responsive websiets
+- 🌱 I’m currently learning html , css , js ,react js.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... You can DM me.
 
 <!---
 Metamakera/Metamakera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
